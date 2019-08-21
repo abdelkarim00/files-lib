@@ -1,0 +1,4 @@
+/home/abdelkarim/cpp/cmake/files/build/CMakeFiles/rebuild_cache.dir
+/home/abdelkarim/cpp/cmake/files/build/CMakeFiles/files.dir
+/home/abdelkarim/cpp/cmake/files/build/CMakeFiles/edit_cache.dir
+/home/abdelkarim/cpp/cmake/files/build/CMakeFiles/main.dir

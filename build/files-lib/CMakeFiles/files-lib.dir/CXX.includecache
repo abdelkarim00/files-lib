@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abdelkarim/cpp/cmake/files/files-lib/src/files-lib/files.cpp
+files.hpp
+/home/abdelkarim/cpp/cmake/files/files-lib/src/files-lib/files.hpp
+
+/home/abdelkarim/cpp/cmake/files/files-lib/src/files-lib/files.hpp
+string
+-
+stdio.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+
