@@ -1,4 +1,9 @@
 #include "files.hpp"
+#include <stdio.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#include <unistd.h>
 
 void files::write_to_file(std::string path, std::string text){
 	int fd1;

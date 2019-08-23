@@ -9,16 +9,6 @@
 /home/abdelkarim/cpp/cmake/files/files.hpp
 string
 -
-stdio.h
--
-sys/types.h
--
-sys/stat.h
--
-fcntl.h
--
-unistd.h
--
 
 /home/abdelkarim/cpp/cmake/files/main.cpp
 iostream
