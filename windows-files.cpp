@@ -42,7 +42,7 @@ void files::cpy(std::string path){
   srand((unsigned) time(NULL));
 	sprintf(new_file_name, "%scopy-%d-%s", dir.c_str(), rand(), filenmae.c_str());
   char cmd [200];
-  sprintf(cmd, "xcopy %s %s /E /C /H /R /K /O /Y", path.c_str(), new_file_name);
+  sprintf(cmd, "copy %s %s", path.c_str(), new_file_name);
   system(cmd);
 }
 
